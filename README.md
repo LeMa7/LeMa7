@@ -11,7 +11,5 @@
 
 <h3 align="left">💻 Technologies</h3>
 <p align="left">
-  HTML, CSS, JavaScript
-  C#
-  MSSQL, Redis
+  HTML, CSS, JavaScript, C#, MSSQL, Redis, Docker
 </p>
