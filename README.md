@@ -9,10 +9,9 @@
 
 - 📫 E-mail **lenya.matveenko@gmail.com**
 
+- 👨‍💻 Personal **https://lmatveenko.herokuapp.com/**
+
 <h3 align="left">💻 Technologies</h3>
 <p align="left">
   HTML, CSS, JavaScript, C#, MSSQL, Redis, Docker
-</p>
-<p align="left">
-  also check: **https://lmatveenko.herokuapp.com/**
 </p>
